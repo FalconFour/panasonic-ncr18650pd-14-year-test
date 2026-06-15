@@ -1,4 +1,11 @@
 # A Study in Lithium Battery Longevity
+
+## Log Viewer Tool
+I quickly threw together a log viewer tool to help visualize the data. Download the log files from here, and drop them into iCharger Scope: https://falconfour.github.io/icharger-scope/
+
+You can also view them with the Junsi Console app, but it's a hot flaming ball of garbage.
+
+## Background
 A once-in-a-lifetime opportunity struck me, though admittedly about 38 minutes late. "I could be capturing this data...". I know the back story, I know the pack, and I have one more shot (one out of 8 banks) to capture this unique opportunity for the world.
 
 I stuffed an SD card in my iCharger X12 and set it back to work. This is the result.
